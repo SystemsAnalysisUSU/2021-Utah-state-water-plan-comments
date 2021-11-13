@@ -2,7 +2,7 @@
 
 R coding effort to produce a bar plot of Utah water provider use ranked from largest to smallest. This plot supports two comments submitted about the draft state water plan.
 
-## Quick guide: Open the file **[UtahMunicipalIndustrialData-WaterPlanComment.pdf](https://github.com/SystemsAnalysisUSU/2021-Utah-state-water-plan-comments/raw/main/UtahMuncipalIndustrialData-WaterPlanComment.pdf)** to see the plot and explanation of how made. 
+## Quick guide: Open the file **[UtahMunicipalIndustrialData-WaterPlanComment.pdf](https://github.com/SystemsAnalysisUSU/2021-Utah-state-water-plan-comments/raw/main/UtahMuncipalIndustrialData-WaterPlanComment.pdf)**. 
 
 Dr. David E. Rosenberg
 
